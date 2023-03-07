@@ -1,0 +1,11 @@
+Tabla de multiplicar del false
+false x 1 = NaN
+false x 2 = NaN
+false x 3 = NaN
+false x 4 = NaN
+false x 5 = NaN
+false x 6 = NaN
+false x 7 = NaN
+false x 8 = NaN
+false x 9 = NaN
+false x 10 = NaN
