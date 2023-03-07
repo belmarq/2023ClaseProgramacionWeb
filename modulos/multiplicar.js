@@ -3,7 +3,7 @@ const colores = require("colors")
 const crearArchivo = async(base=1, listar=false) =>{
 
     let salida = "";
-    salida +=`Tabla de multiplicar del ${base}\n`.rainbow;
+    salida +=`Tabla de multiplicar del ${base}\n`;
     for(let i=1; i<=10; i++){
         salida += `${base} x ${i} = ${base*i}\n`;
     }
